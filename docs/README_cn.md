@@ -8,7 +8,7 @@
 
 截图:
 
-<img alt="screenshot" src="./client/assets/screenshot.jpg" height="auto">
+<img alt="screenshot" src="../client/assets/screenshot.jpg" height="auto">
 
 
 ### 模型训练
