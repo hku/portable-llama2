@@ -7,7 +7,7 @@ This project loads the LLama2 model into the browser using wasm technology, achi
 
 screenshot:
 
-<img alt="screenshot" src="../client/assets/screenshot.jpg" width="600" height="auto">
+<img alt="screenshot" src="./client/assets/screenshot.jpg" width="600" height="auto">
 
 ### Model Training
 
@@ -47,4 +47,4 @@ In lots of specific scenarios, portable models have advantages in terms of compu
 
 wx：
 
-<img alt ="qrcode" src="../client/assets/qrcode2.jpg" width="300" height="auto">
+<img alt ="qrcode" src="./client/assets/qrcode2.jpg" width="300" height="auto">

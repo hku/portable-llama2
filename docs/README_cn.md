@@ -6,6 +6,11 @@
 本项目通过 wasm 技术将 LLama2 模型加载到浏览器中，实现web端的高效推理运算。  [在线demo](https://hku.github.io/pages/portable-llama2/)
 
 
+截图:
+
+<img alt="screenshot" src="./client/assets/screenshot.jpg" width="600" height="auto">
+
+
 ### 模型训练
 
 ( 整理中 coming soon ... ）
