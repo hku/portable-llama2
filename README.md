@@ -7,7 +7,7 @@ This project loads the LLama2 model into the browser using wasm technology, achi
 
 screenshot:
 
-<img alt="screenshot" src="./client/assets/screenshot.jpg" width="600" height="auto">
+<img alt="screenshot" src="./client/assets/screenshot.jpg" height="auto">
 
 ### Model Training
 
