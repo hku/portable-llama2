@@ -30,7 +30,8 @@
 
 wx：
 
-![qrcode](./client/assets/qrcode2.jpg)
+
+<img alt ="qrcode" src="./client/assets/qrcode2.jpg" width="300" height="auto">
 
 
 
