@@ -7,7 +7,7 @@ This project loads the LLama2 model (currently a mini model with only 15M parame
 
 screenshot:
 
-<img alt="screenshot" src="../client/assets/screenshot.jpg" width="600" height="auto">
+<img alt="screenshot" src="../client/assets/screenshot.jpg" height="auto">
 
 
 ### Model Training
@@ -32,7 +32,7 @@ screenshot:
 
 ### Resources
 
-[Models](https://huggingface.co/rayvvv/yumchat_cn) | [Gitee](https://gitee.com/hku2023/portable-llama2) | [Git] (https://github.com/hku/portable-llama2)
+[Models](https://huggingface.co/rayvvv/yumchat_cn) | [Git](https://github.com/hku/portable-llama2) | [Gitee](https://gitee.com/hku2023/portable-llama2) 
 
 ### Acknowledgement
 
