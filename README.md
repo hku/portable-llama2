@@ -23,14 +23,14 @@
 
 ### 相关资源
 
-[en](./README.md) | [中文](./docs/README_cn.md) | [हिंदी](./docs/README_in.md) | [español](./docs/README_es.md) | [العربية](./docs/README_ar.md) | [português](./docs/README_po.md) | [日本語](./docs/README_jp.md)
+[en](./README.md) | [中文](./docs/README_cn.md)
 
 
 在垂直细分场景下，portable 模型在算力节省，响应提速，数据隐私等方面有着明显的优势，对 portable 模型技术方向感兴趣的朋友，欢迎一起交流 ~
 
 wx：
 
-![client/assets/qrcode2.jpg]
+![./client/assets/qrcode2.jpg]
 
 
 
