@@ -14,6 +14,8 @@ The default model is a mini version of llama2 with 15M parameters trained over 3
 
 ### Model Training
 
+Adapted from [Karpathy's repository](https://github.com/karpathy/llama2.c). 
+
 (will be opennd soon after cleaning the codes）
 
 ### WebAssembly Compilation
