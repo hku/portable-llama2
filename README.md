@@ -30,7 +30,7 @@
 
 wx：
 
-![./client/assets/qrcode2.jpg]
+![qrcode](./client/assets/qrcode2.jpg)
 
 
 
