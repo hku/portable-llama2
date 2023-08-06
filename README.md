@@ -3,9 +3,11 @@
 [en](./docs/README_en.md) | [中文](./docs/README_cn.md) 
 
 
+This project loads the LLama2 model into the browser using wasm technology, achieving efficient inference computing on the web.  [demo online](https://hku.github.io/pages/portable-llama2/)
 
-This project loads the LLama2 model (currently a mini model with only 15M parameters trained from 300M Chinese dialogs) into the browser using wasm technology, achieving efficient inference computing on the web.  [demo online](https://hku.github.io/pages/portable-llama2/)
+screenshot:
 
+<img alt="screenshot" src="../client/assets/screenshot.jpg" width="600" height="auto">
 
 ### Model Training
 
