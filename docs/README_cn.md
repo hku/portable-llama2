@@ -33,7 +33,7 @@
 
 ### 相关资源
 
-[模型下载](https://huggingface.co/rayvvv/yumchat_cn) | [Gitee](https://gitee.com/hku2023/portable-llama2) | [Git] (https://github.com/hku/portable-llama2)
+[Models](https://huggingface.co/rayvvv/yumchat_cn) | [Git](https://github.com/hku/portable-llama2) | [Gitee](https://gitee.com/hku2023/portable-llama2) 
 
 
 ### 其它
