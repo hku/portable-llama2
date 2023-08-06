@@ -1,46 +1,51 @@
 ## Portable LLama2
 
-[en](./docs/README_en.md) | [中文](./README_cn.md) 
+[en](./docs/README_en.md) | [中文](./docs/README_cn.md) 
 
 
-本项目通过 wasm 技术将 LLama2 模型加载到浏览器中，实现web端的高效推理运算。
+[en](./README_en.md) | [中文](./README_cn.md) 
 
-### 模型训练
+
+This project loads the LLama2 model (currently a mini model with only 15M parameters trained from 300M Chinese dialogs) into the browser using wasm technology, achieving efficient inference computing on the web.  [demo online](https://hku.github.io/pages/portable-llama2/)
+
+
+### Model Training
+
+( coming soon ... ）
+
+### WebAssembly Compilation
 
 ( 整理中 coming soon ... ）
 
-### wasm 编译
 
-( 整理中 coming soon ... ）
+### Installation
 
+1. [install node](https://nodejs.org)
 
-### 客户端安装
+2. install node packages ```npm install```
 
-1. [安装node环境](https://nodejs.org)
+3. run the web server ```npm run start```
 
-2. 安装node包 ```npm install```
-
-
-3. 运行web服务
+4. open the web link： http://localhost:3000/
 
 
-[在线demo](https://hku.github.io/pages/portable-llama2/)
+### Resources
+
+[Models](https://huggingface.co/rayvvv/yumchat_cn) | [Gitee](https://gitee.com/hku2023/portable-llama2) | [Git] (https://github.com/hku/portable-llama2)
+
+### Acknowledgement
+
+- Special thanks to Karpathy for open-sourcing the llama2 code in C lang. The model training and inference codes are mainly adapted from this [repository](https://github.com/karpathy/llama2.c). 
+
+- Special Thanks to [enscripten](https://github.com/emscripten-core/emscripten), [mui](https://github.com/mui/material-ui), and [chatGPT](https://chat.openai.com/)  
 
 
-### 相关资源
+### Others
 
-[模型]() | [中文](./docs/README_cn.md) | git
+In lots of specific scenarios, portable models have advantages in terms of computational power savings, response acceleration, and data privacy. If you are interested in portable technology of LLM too, feel free to contact me ~
 
-
-在垂直细分场景下，portable 模型在算力节省，响应提速，数据隐私等方面有着明显的优势，对 portable 模型技术方向感兴趣的朋友，欢迎一起交流 ~
+[twitter](https://twitter.com/RayWong48889131)
 
 wx：
 
-
-<img alt ="qrcode" src="./client/assets/qrcode2.jpg" width="300" height="auto">
-
-
-
-
-
-
+<img alt ="qrcode" src="../client/assets/qrcode2.jpg" width="300" height="auto">
