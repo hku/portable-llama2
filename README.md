@@ -9,12 +9,11 @@ This project loads the LLama2 model (currently a mini model with only 15M parame
 
 ### Model Training
 
-( coming soon ... ）
+(will be opennd soon after cleaning the codes）
 
 ### WebAssembly Compilation
 
-( 整理中 coming soon ... ）
-
+(will be opennd soon after cleaning the codes）
 
 ### Installation
 
