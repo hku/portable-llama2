@@ -5,9 +5,12 @@
 
 This project loads the LLama2 model into the browser using wasm technology, achieving efficient inference computing on the web.  [demo online](https://hku.github.io/pages/portable-llama2/)
 
+
 screenshot:
 
 <img alt="screenshot" src="./client/assets/screenshot.jpg" height="auto">
+
+The default model is a mini version of llama2 with 15M parameters trained over 300M Chinese dialogs. 
 
 ### Model Training
 
@@ -34,7 +37,7 @@ screenshot:
 
 ### Acknowledgement
 
-- Special thanks to Karpathy for open-sourcing the llama2 code in C lang. The model training and inference codes are mainly adapted from this [repository](https://github.com/karpathy/llama2.c). 
+- Special thanks to [Karpathy](https://github.com/karpathy) for open-sourcing the llama2 code in C lang. The model training and inference codes are mainly adapted from this [repository](https://github.com/karpathy/llama2.c). 
 
 - Special Thanks to [enscripten](https://github.com/emscripten-core/emscripten), [mui](https://github.com/mui/material-ui), and [chatGPT](https://chat.openai.com/)  
 
